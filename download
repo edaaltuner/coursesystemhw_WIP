@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local demo database (created on first run; rebuild with --reset)
+*.db
+*.sqlite3
+
+# Your own branding for the sidebar - keep institution logos out of the repository
+logo.png
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
